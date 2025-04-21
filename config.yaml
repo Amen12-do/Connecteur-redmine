@@ -1,0 +1,21 @@
+# Configuration du connecteur Redmine-Email
+
+# Configuration Redmine
+redmine:
+  url: 'https://redmine.votre-domaine.com'
+  api_key: 'votre_cle_api_redmine'
+  api_version: '4.2'
+  default_project_id: 1  # ID du projet par défaut
+
+# Configuration email
+email:
+  server: 'smtp.votre-domaine.com'
+  port: 587
+  username: 'support@votre-domaine.com'
+  password: 'votre_mot_de_passe'
+  check_interval: 5  # intervalle de vérification des emails en minutes
+
+# Configuration de l'application
+app:
+  debug: false
+  log_level: 'INFO'
