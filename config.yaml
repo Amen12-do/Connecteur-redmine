@@ -4,18 +4,18 @@
 redmine:
   url: 'http://localhost:3000/'
   api_key: 'dbc5d3f317cf69e27f2715c91734a64e316ef429'
-  api_version: '4.2'
+  api_version: '4.2.0'
   default_project_id: 1  # ID du projet par défaut
 
 # Configuration email
 email:
-  server: 'smtp.gmail.com'
-  port: 587
-  username: 'daaji aymen'
-  password: 'Aymen54072088'
+  server: 'smtp.votre-domaine.com'
+  port: 587 
+  username: 'aymandaaji@gmail.com'
+  password: 'Aymen21336618'
   check_interval: 5  # intervalle de vérification des emails en minutes
 
-# Configuration de l'application
+# Configuration de l'application 
 app:
   debug: false
-  log_level: 'INFO'
+  log_level: 'INFO' 

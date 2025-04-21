@@ -1,0 +1,28 @@
+2025-04-21 15:13:00,035 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.96:5000
+2025-04-21 15:13:00,035 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 15:18:00,363 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided o8mb126224394wmp']
+2025-04-21 16:17:57,327 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided m5mb120976123wrx']
+2025-04-21 16:19:35,855 - werkzeug - INFO - 192.168.3.96 - - [21/Apr/2025 16:19:35] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-21 16:19:36,001 - werkzeug - INFO - 192.168.3.96 - - [21/Apr/2025 16:19:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 16:22:57,862 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided y20mb82596185wmq']
+2025-04-21 16:27:58,274 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided hg18mb126770945wmb']
+2025-04-21 16:32:58,847 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided i5mb121767692wrp']
+2025-04-21 16:37:59,275 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided m14mb121097657wrx']
+2025-04-21 16:42:59,720 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided x18mb108762223wrp']
+2025-04-21 16:57:35,164 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided t2mb121822890wrx']
+2025-04-21 17:00:30,328 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 17:00:30] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-21 17:00:30,439 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 17:00:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 17:00:56,851 - werkzeug - INFO - 192.168.3.96 - - [21/Apr/2025 17:00:56] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-21 17:02:35,615 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided o2mb78654356wms']
+2025-04-21 17:07:36,033 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided m41mb127279360wms']
+2025-04-21 17:12:36,492 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided f11mb127064118wmq']
+2025-04-21 17:17:36,971 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided r16mb121467170wrn']
+2025-04-21 17:22:37,600 - __main__ - ERROR - Erreur lors de la vérification des e-mails: LOGIN command error: BAD [b'Too many arguments provided h19mb127760695wmp']
+2025-04-21 17:25:18,176 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.96:5000
+2025-04-21 17:25:18,176 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
