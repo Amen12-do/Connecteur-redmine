@@ -2,17 +2,17 @@
 
 # Configuration Redmine
 redmine:
-  url: 'https://redmine.votre-domaine.com'
-  api_key: 'votre_cle_api_redmine'
+  url: 'http://localhost:3000/'
+  api_key: 'dbc5d3f317cf69e27f2715c91734a64e316ef429'
   api_version: '4.2'
   default_project_id: 1  # ID du projet par défaut
 
 # Configuration email
 email:
-  server: 'smtp.votre-domaine.com'
+  server: 'smtp.gmail.com'
   port: 587
-  username: 'support@votre-domaine.com'
-  password: 'votre_mot_de_passe'
+  username: 'daaji aymen'
+  password: 'Aymen54072088'
   check_interval: 5  # intervalle de vérification des emails en minutes
 
 # Configuration de l'application
