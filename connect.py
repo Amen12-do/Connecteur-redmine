@@ -133,7 +133,7 @@ def send_email(to_email, subject, body, cc=None, attachments=None):
                 msg.add_attachment(file_data, maintype='application', subtype='octet-stream', filename=file_name)
         
         # Envoi de l'e-mail
-        with smtplib.SMTP(EMAIL_SERVER, EMAIL_PORT) as server:
+        with smtplib.SMTP(EMAIL_SMTP_SERVER, EMAIL_PORT) as server:
             server.starttls()
             server.login(EMAIL_USER, EMAIL_PASSWORD)
             server.send_message(msg)
@@ -147,7 +147,7 @@ def send_email(to_email, subject, body, cc=None, attachments=None):
 def check_emails():
     """Vérifie les nouveaux e-mails et crée des tickets Redmine correspondants"""
     try:
-        mail = imaplib.IMAP4_SSL(EMAIL_SERVER)
+        mail = imaplib.IMAP4_SSL(EMAIL_IMAP_SERVER)
         mail.login(EMAIL_USER, EMAIL_PASSWORD)
         mail.select('inbox')
         
