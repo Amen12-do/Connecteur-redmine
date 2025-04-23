@@ -2,7 +2,7 @@
 
 # Configuration Redmine
 redmine:
-  url: 'http://192.168.3.96:5000'
+  url: 'http://192.168.3.96:3000'
   api_key: 'dbc5d3f317cf69e27f2715c91734a64e316ef429'
   api_version: '4.2.0'
   default_project_id: 1  # ID du projet par défaut
@@ -12,7 +12,7 @@ email:
   imap_server: 'imap.gmail.com'
   smtp_server: 'smtp.gmail.com'
   port: 587 
-  username: 'aymandaaji@gmail.com'
+  username: 'aymandaaji@gmail.gmail.com'
   password: 'Aymen21336618'
   check_interval: 5  # intervalle de vérification des emails en minutes
 

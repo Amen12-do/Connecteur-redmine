@@ -56,3 +56,19 @@
 2025-04-23 09:47:53,767 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
 2025-04-23 09:52:54,094 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
 2025-04-23 09:57:54,437 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 10:02:54,782 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 10:18:13,998 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 10:23:14,486 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 10:24:46,570 - werkzeug - INFO - 127.0.0.1 - - [23/Apr/2025 10:24:46] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-23 10:28:14,802 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 10:33:15,139 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 10:38:15,489 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 10:43:15,802 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 10:55:07,070 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 11:10:00,747 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 11:15:01,067 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 11:20:01,358 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 11:25:01,722 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 11:30:02,065 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 11:35:02,333 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 11:40:02,694 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
