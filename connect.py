@@ -48,11 +48,12 @@ redmine = Redmine(
 )
 
 # Configuration e-mail
-EMAIL_SERVER = config['email']['server']
+EMAIL_IMAP_SERVER = config['email']['imap_server']
+EMAIL_SMTP_SERVER = config['email']['smtp_server']
 EMAIL_PORT = config['email']['port']
 EMAIL_USER = config['email']['username']
 EMAIL_PASSWORD = config['email']['password']
-EMAIL_CHECK_INTERVAL = config['email']['check_interval']  # en minutes
+EMAIL_CHECK_INTERVAL = config['email']['check_interval']
 
 # -------------------- FONCTIONS POUR REDMINE --------------------
 

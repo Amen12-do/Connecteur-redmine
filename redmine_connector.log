@@ -26,3 +26,27 @@
  * Running on http://127.0.0.1:5000
  * Running on http://192.168.3.96:5000
 2025-04-21 17:25:18,176 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 17:35:48,352 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.96:5000
+2025-04-21 17:35:48,352 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 17:58:23,177 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.96:5000
+2025-04-21 17:58:23,177 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 18:03:23,388 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-21 18:09:10,429 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-21 18:28:56,625 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-21 19:54:26,780 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-21 19:54:26,897 - __main__ - ERROR - Erreur lors du traitement des mises à jour Redmine: ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2025-04-22 19:39:04,094 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-22 19:55:21,050 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-22 21:11:57,687 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-22 21:11:57,866 - __main__ - ERROR - Erreur lors du traitement des mises à jour Redmine: ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2025-04-23 09:07:50,332 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 09:12:50,976 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 09:17:51,331 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 09:22:51,645 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 09:27:52,034 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
