@@ -12,7 +12,7 @@ email:
   imap_server: 'imap.gmail.com'
   smtp_server: 'smtp.gmail.com'
   port: 587 
-  username: 'aymandaaji@gmail.gmail.com'
+  username: 'aymandaaji@gmail.com'
   password: 'Aymen21336618'
   check_interval: 5  # intervalle de vérification des emails en minutes
 
