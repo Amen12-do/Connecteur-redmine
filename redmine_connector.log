@@ -76,3 +76,6 @@
 2025-04-23 12:00:12,127 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
 2025-04-23 12:05:12,666 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
 2025-04-23 12:10:12,971 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 12:15:13,240 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 12:20:13,573 - __main__ - ERROR - Erreur lors de la vérification des e-mails: [Errno 11001] getaddrinfo failed
+2025-04-23 12:36:25,785 - waitress - INFO - Serving on http://0.0.0.0:5000
